@@ -1,0 +1,78 @@
+
+.img img {
+    width: 100%;
+    height: 765px;
+    object-fit: cover;
+
+}
+
+body {
+    margin: 0; /* Div ka margin remove karega */
+    padding: 0; /* Div ka padding remove karega */
+}
+
+.btn{
+    margin-left: 1250px;
+    margin-top: -700px;
+
+
+}
+
+.btn > button  { 
+position: relative;
+z-index: 10; 
+width: 120px;
+height: 40px;
+border-radius: 20px;
+ }
+
+
+
+.header{
+    display: flex;
+    flex-direction: row;
+    gap: 40px; 
+    padding: 10px 0;
+    color: white;
+    position: relative; 
+margin-left: 800px;
+margin-top: -35px;
+
+}
+
+.logo{
+
+margin-top: -20px;
+margin-left: 100px;
+}
+
+.text{
+
+font-size: xx-large;
+text-align: center;
+color: #FC00FF;
+margin-top: 150px;
+}
+
+.pgh{
+text-align: center;
+color: white;
+}
+
+.btn1{
+
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn1 > button {
+
+width: 250px;
+height: 60px;
+border-radius: 50px;
+}
+
+
+
+
+

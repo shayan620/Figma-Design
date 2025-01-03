@@ -1,0 +1,84 @@
+.btn {
+
+    margin-left: 1300px;
+margin-top: 40px;
+
+}
+
+div.btn > button {
+    border-radius: 10px;
+    width: 130px;
+    height: 35px;
+    color: white;
+    background-color: black;
+
+}
+
+
+.header{
+
+display: flex;
+flex-direction: row;
+gap: 40px ;
+margin-top: -25px;
+margin-left: 850px;
+}
+
+.logo{
+    margin-left: 120px;
+    margin-top: -10px;
+}
+
+.heading{
+
+    font-size: xx-large;
+    margin-left: 120px;
+margin-top: 100px;
+color: #4776E6;
+
+}
+
+.text{
+margin-left: 120px;
+color: black;
+}
+
+
+
+.text > .txt {
+    margin-top: -12px;
+}
+
+.btn1{
+
+    margin-left: 120px;
+    margin-top: 40px;
+}  
+
+.btn1 >button{
+
+    border-radius: 10px;
+width: 150px;
+height: 40px;
+background-color: #A1FFCE;
+}
+
+body {
+    background-color:#AF52DE; 
+    margin: 0; 
+    padding: 0; 
+}
+
+.img{
+
+margin-left: 950px;
+margin-top: -350px;
+}
+
+.img1{
+    margin-left: 470px;
+    margin-top: -240px;
+}
+
+
+

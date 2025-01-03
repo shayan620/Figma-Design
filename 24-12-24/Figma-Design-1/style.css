@@ -1,0 +1,93 @@
+button{
+    margin-left: 1125px ;
+    margin-top: 32px;
+    border-radius: 5px;
+    position: absolute;
+    top: 10px;
+   border-color:#4776E6;
+height: 32px;
+width: 120px;
+position: relative;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+ margin-left: 650px;
+  gap: 40px;
+  position: absolute;
+  top: 50px;
+  
+   
+}
+.logo{ position: relative;
+    left: 80px;
+    top: 40px;
+}
+
+.img >img{
+position: absolute;
+left: 450px;
+width: 900px;
+height: 500px;
+margin-top: -80px;
+}
+
+.heading{
+font-size: x-large;
+line-height: 1px;
+position: relative;
+color: #31135E;
+position: relative;
+top: 230px;
+left: 80px;
+}
+.heading1{
+    font-size: x-large;
+   color: rgb(49, 19, 94);
+position: relative;
+top: 230px;
+left: 80px;
+}
+
+.heading2{
+    font-size: x-large;
+    line-height: 1px;
+    color: rgb(206, 49, 180);
+    position: relative;
+    top: 230px;
+    left: 80px;
+}
+
+.pgh{
+position: relative;
+top: 250px;
+left: 80px;
+}
+
+
+.pgh1{
+    position: relative;
+    top: 250px;
+    left: 80px;
+}
+
+ .button1 button {
+width: 150px;
+height: 40px;
+    position: relative;
+right: 1050px;
+    bottom: 0px;
+    border-color: #4776E6;
+background-color:#4776E6;
+  color: white;
+top: 270px;
+
+}
+
+.selector{
+position: relative;
+left: 40px;
+}
+
+
+
